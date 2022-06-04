@@ -1,2 +1,2 @@
 # Sprint2
-#photos: Panlasang Pinoy and allrecipes
+photos: Panlasang Pinoy and allrecipes
