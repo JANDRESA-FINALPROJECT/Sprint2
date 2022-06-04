@@ -73,12 +73,12 @@ $("#slideshow > div:gt(0)").hide();
 
 setInterval(function() { 
   $('#slideshow > div:first')
-  .fadeOut(100)
+  .fadeOut(50)
   .next()
-  .fadeIn(100)
+  .fadeIn(50)
   .end()
   .appendTo('#slideshow');
-}, 800);
+}, 500);
 
 let index = 1;
 showSlides(index);
